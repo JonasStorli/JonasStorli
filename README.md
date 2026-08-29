@@ -33,7 +33,7 @@ My studies focus on areas such as frontend development, mobile development, prog
 
 ## 📚 Currently learning
 
-```text
+```
 Swift / SwiftUI     ███████████████░░░░░
 React / TypeScript  ██████████████░░░░░░
 Raspberry Pi / IoT  ███████████░░░░░░░░░
