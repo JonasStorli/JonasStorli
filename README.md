@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hey, I'm Jonas 👋
 
-<!--
-**JonasStorli/JonasStorli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend & Mobile Development student from Bergen, Norway 🇳🇴
 
-Here are some ideas to get you started:
+I enjoy building applications that are useful, intuitive and maybe a little more complicated than they needed to be.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm especially interested in mobile development, frontend development, UI/UX and connecting software with real-world technology.
+
+---
+
+## 🎓 Education
+
+### Bachelor in Information Technology
+**Frontend & Mobile Development**  
+Kristiania University College, Bergen
+
+Currently completing my final year.
+
+My studies focus on areas such as frontend development, mobile development, programming, UI/UX and building complete digital solutions.
+
+---
+
+## 🧰 Technologies I work with
+
+**Languages & Frameworks**  
+`Swift` `SwiftUI` `Kotlin` `TypeScript` `JavaScript` `React`  
+`HTML` `CSS` `Java`
+
+**Tools**  
+`Git` `GitHub` `Xcode` `VS Code` `Android Studio`
+
+---
+
+## 📚 Currently learning
+
+```text
+Swift / SwiftUI     ███████████████░░░░░
+React / TypeScript  ██████████████░░░░░░
+Raspberry Pi / IoT  ███████████░░░░░░░░░
+Making CSS behave   ███░░░░░░░░░░░░░░░░░
